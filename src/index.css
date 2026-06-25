@@ -1,0 +1,10 @@
+/* Estilos generales de toda la página */
+
+body {
+  margin: 0;
+  font-family: 'Inter', Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
